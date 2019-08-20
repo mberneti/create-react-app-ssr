@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.vscode": true,
+    "**/node_modules": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    "LICENSE": true
+  }
+}
