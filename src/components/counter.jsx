@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { decrement, increment } from '../store/counter/actions';
+import { decrement, increment } from '../store/actions';
 import Menu from './menu';
 
 class Index extends React.Component {
