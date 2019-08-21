@@ -8,6 +8,9 @@
     "**/node_modules": true,
     "package-lock.json": true,
     "yarn.lock": true,
-    "LICENSE": true
+    "LICENSE": true,
+    "README.md": true,
+    "_vscode.cmd": true,
+    ".gitignore": true
   }
 }

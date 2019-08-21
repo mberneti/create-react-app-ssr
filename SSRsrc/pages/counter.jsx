@@ -1,13 +1,11 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { decrement, increment } from '../store/actions';
-import Menu from './menu';
 
 class Index extends React.Component {
   render() {
     return (
       <>
-        <Menu />
         <h1>Counter Page</h1>
         <div>
           Counter: {this.props.count}
