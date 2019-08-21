@@ -24,3 +24,5 @@ yarn-error.log*
 
 # vscode OBS bug solution with this cmd code: code . --disable-gpu
 _vscode.cmd 
+
+**/.next
