@@ -6,10 +6,14 @@ function Menu() {
     <nav>
       <ul>
         <li>
-          <Link href="/">Home</Link>
+          <Link href="/">
+            <a href="/">Home</a>
+          </Link>
         </li>
         <li>
-          <Link href="/counter">Counter</Link>
+          <Link href="/counter">
+            <a href="Counter">Counter</a>
+          </Link>
         </li>
       </ul>
     </nav>
